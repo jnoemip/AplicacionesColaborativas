@@ -6,7 +6,7 @@ Se deben realizar las siguientes actividades:
 
 •	Selección de una herramienta:JupyterLab
 
-•	Definición del proyecto: El dataset de COVID-19 puede utilizarse para resolver diversos problemas de salud pública, y análisis predictivo mediante las librerías Pandas, scikit-learn, NumPy, Matplotlib, Bokeh.
+•	Definición del proyecto: El dataset de COVID-19 puede utilizarse para resolver diversos problemas de salud pública, y análisis predictivo, por ejemplo,identificar qué países tienen mayor probabilidad de colapso hospitalario, mediante las librerías Pandas, scikit-learn, NumPy, Matplotlib, Bokeh.
 
 •	La información de entrada debe estar en un archivo CSV, Excel, JSON, etc.
 
