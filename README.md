@@ -5,13 +5,21 @@ Identificar oportunidades para desarrollar y dirigir proyectos tecnológicos en 
 Planteamiento de la actividad Se deben realizar las siguientes actividades:
 
 •	Selección de una herramienta: JupyterLab
+
 •	Definición del proyecto: El dataset de COVID-19 puede utilizarse para resolver diversos problemas de salud pública, y análisis predictivo, por ejemplo, identificar qué países tienen mayor probabilidad de un colapso hospitalario, aplicando las librerías Pandas, scikit-learn, NumPy, Matplotlib, Bokeh.
+
 •	La información de entrada debe estar en un archivo CSV, Excel
+
 •	Configuración del entorno: usar un entorno local y un entorno en la nube, GITHUB
+
 •	Presentar como solución un solo Notebook, es indispensable que se use visualización de información. Consideraciones particulares sugeridas:
+
 •	Crear un proyecto y un notebook en la herramienta seleccionada. • Pasar los registros a un dataframe de pandas del conjunto de datos.
+
 •	Agregar cuatro columnas al dataframe, en función de los datos originales. 
+
 •	Generar dos visualizaciones del dataframe.
+
 •	Exportar como PDF el Notebook y subir a la plataforma indicada. Subir el enlace público de Notebook a la plataforma indicada.
 
 BIBLIOGRAFIA
