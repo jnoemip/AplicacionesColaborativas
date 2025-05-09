@@ -25,6 +25,7 @@ Consideraciones particulares sugeridas:
 BIBLIOGRAFIA
 
 https://www.kaggle.com/datasets/saikatsray/covid-19-global-dataset
+
 https://docs-bokeh-org.translate.goog/en/latest/docs/first_steps/first_steps_2.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
 https://scikit-learn.org/1.6/modules/generated/sklearn.linear_model.LinearRegression.html
 
