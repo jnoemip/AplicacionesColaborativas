@@ -1,4 +1,4 @@
-AplicacionesColaborativas
+#AplicacionesColaborativas
 
 Identificar oportunidades para desarrollar y dirigir proyectos tecnológicos en campos específicos de la inteligencia artificial.
 
