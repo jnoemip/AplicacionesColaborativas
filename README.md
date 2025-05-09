@@ -12,6 +12,9 @@ Planteamiento de la actividad Se deben realizar las siguientes actividades:
 
 •	Configuración del entorno: usar un entorno local y un entorno en la nube, GITHUB
 
+http://localhost:8888/lab/tree/Documents/pracitcaCasosCOVID
+https://github.com/jnoemip/AplicacionesColaborativas
+
 •	Presentar como solución un solo Notebook, es indispensable que se use visualización de información. Consideraciones particulares sugeridas:
 
 •	Crear un proyecto y un notebook en la herramienta seleccionada. • Pasar los registros a un dataframe de pandas del conjunto de datos.
